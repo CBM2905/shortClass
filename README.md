@@ -15,3 +15,4 @@
 # Bibliografia
 
 - https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf
+- https://do1.dr-chuck.com/pythonlearn/ES_es/pythonlearn.pdf
