@@ -46,3 +46,23 @@
 
   Salida: Has vivido aproximadamente 9125 días.
 
+# Reto:
+
+Determinar el tiempo que tarda un automovil en recorrer X kilometros si se mueve a una velocidad de Y Km/h:
+---
+
+## Entrada: 
+ - X (Kilometros)
+ - Y (Velocidad)
+## Salida: 
+ - Tiempo que tarda en recorrer los X kilometros
+
+---
+## Ejemplo:
+
+X = 150
+y = 75
+
+Salida = 150/75 = 2
+
+
