@@ -15,11 +15,11 @@
 | 29 Abril      | 3pm - 4pm     | Revisión de problemas resueltos                     | Ejercicios corregidos y discutidos              |                                                       |
 | 1 Mayo        | —             | —                                                    | —                                              | No hay clase (Día del Trabajo)                      |
 | 6 Mayo        | 3pm - 4pm     | Condicionales simples (if)                          | Introducción a estructuras condicionales       | Aplazada para el dia sabado                             |
-| 8 Mayo        | 3pm - 4pm     | Condicionales múltiples                             | Uso de if-elif-else                            | Problemas prácticos                                  |
+| 8 Mayo        | 3pm - 4pm     | Condicionales múltiples                             | Intro to estructuras condicionales                        | Problemas prácticos                                  |
 | 13 Mayo       | 3pm - 4pm     | Condicionales complejas                             | Comparaciones anidadas                          | Ejercicios de selección múltiple                     |
 | 15 Mayo       | 3pm - 4pm     | Problemas de condicionales                          | Resolución de ejercicios                        | Revisión de respuestas                               |
-| 20 Mayo       | 3pm - 4pm     | Problemas creativos con `if`                        | Diseño de problemas propios                     | Introducción a redacción estilo Codeforces           |
-| 22 Mayo       | 3pm - 4pm     | Escritura de problemas en formato Codeforces        | Diseño y redacción de problemas complejos       | Sin estructuras avanzadas                            |
+| 20 Mayo       | 3pm - 4pm     | Problemas creativos con `if`                        | Operadores logicos para concatenacion de condiciones                    |            |
+| 22 Mayo       | 3pm - 4pm     | Escritura de problemas en formato Codeforces        | Operadores logicos para concatenacion de condiciones        | Mejora de resolucion de problemas con condicionales                         |
 | 27 Mayo       | 3pm - 4pm     | Validación y mejora de problemas                    | Revisión de condiciones lógicas complejas       | Aplazada                     |
 | 29 Mayo       | 3pm - 4pm     | Consolidación de condicionales avanzadas            | Lógica de problemas tipo Codeforces nivel alto  | Aplazada        |
 
