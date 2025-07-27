@@ -1,28 +1,34 @@
 # Bitacora Semanal de Intro To Python (tentativo)
 
 
+---
+
+| **Día**       | **Hora**     | **Tema**                                             | **Actividades Realizadas**                              | **Observaciones**                                     | ✅ | **Horas**                           |
+|---------------|--------------|------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|----|-------------------------------------|
+| 8 Abril       | 3pm - 4pm    | Introducción a la plataforma                         | Resumen de temas, exploración Google Colab              | Crear cuenta Gmail y explorar Google Colab            | ✓  | 1 Hora 26 Minutos                   |
+| 10 Abril      | 3pm - 4pm    | Fundamentos de Algoritmos                            | Tipos de datos, variables, operadores básicos (Quizziz) | Practicar los problemas                              | ✓  | 1 Hora 49 Minutos 21 Segundos       |
+| 29 Abril      | 3pm - 4pm    | Revisión de problemas resueltos                      | Ejercicios corregidos y discutidos                      |                                                       | ✓  | 2 Horas 8 Minutos 8 Segundos        |
+| 8 Mayo        | 3pm - 4pm    | Condicionales múltiples                              | Intro a estructuras condicionales                       | Problemas prácticos                                   | ✓  | 2 Horas 14 Minutos 42 Segundos      |
+| 13 Mayo       | 3pm - 4pm    | Condicionales complejas                              | Comparaciones anidadas                                  | Ejercicios de selección múltiple                      | ✓  | 31 Minutos 55 Segundos              |
+| 15 Mayo       | 3pm - 4pm    | Problemas de condicionales                           | Resolución de ejercicios (Quizziz)                      | Revisión de respuestas                                | ✓  | 2 Horas 5 Minutos 48 Segundos       |
+| 20 Mayo       | 3pm - 4pm    | Problemas creativos con `if`                         | Operadores lógicos para concatenación de condiciones    |                                                       | ✓  | 41 Minutos 4 Segundos               |
+| 22 Mayo       | 3pm - 4pm    | Escritura de problemas en formato Codeforces         | Operadores lógicos para concatenación de condiciones    | Mejora de resolución de problemas con condicionales   | ✓  | 1 Hora y Media                      |
+| 3 Junio       | 3pm - 4pm    | Introducción a bucles                                | Presentación de `while` y `for`                         |                                                       | ✓  | 1 Hora                              |
+| 5 Junio       | 3pm - 4pm    | Bucles `while`                                       | Ejercicios básicos con `while`                          |                                                       | ✓  | 1 Hora                              |
+| 12 Junio      | 3pm - 4pm    | Problemas con bucles simples                         | Resolución de ejercicios con `for` y `while`            |                                                       | ✓  | 1 Hora                              |
+| 1 Julio       | 3pm - 4pm    | Bucles `for`                                         | Acceso, recorrido, métodos básicos                      |                                                       | ✓  | 1 Hora                              |
+| 8 Julio       | 3pm - 4pm    | Problemas avanzados de bucles                        | Aplicaciones reales usando listas                       |                                                       | ✓  | 1 Hora                              |
+| 11 Julio      | 3pm - 4pm    | Funciones                                            | Trabajo con matrices y estructuras bidimensionales      |                                                       | ✓  | 1 Hora                              |
+| 15 Julio      | 3pm - 4pm    | Problemas con funciones                              | Modelado de información usando estructuras              |                                                       | ✓  | 1 Hora                              |
+| 19 Julio      | 3pm - 4pm    | Revisión general de POO y VPython                    | Consolidación de condicionales, bucles y listas         |                                                       | ✓  | 1 Hora                              |
 
 ---
 
-| **Día**       | **Hora**     | **Tema**                                             | **Actividades Realizadas**                     | **Observaciones**                                     |
-|---------------|--------------|------------------------------------------------------|------------------------------------------------|-------------------------------------------------------|
-| 8 Abril       | 3pm - 4pm     | Introducción a la plataforma                        | Resumen de temas, exploración Google Colab     | Crear cuenta Gmail y explorar Google Colab            |
-| 10 Abril      | 3pm - 4pm     | Fundamentos de Algoritmos                           | Tipos de datos, variables, operadores básicos  | Practicar los problemas                              |
-| 15 Abril      | 3pm - 4pm     | Fundamentos de Algoritmos                           | Problemas prácticos                             | Semana Santa                                          |
-| 17 Abril      | 3pm - 4pm     | Fundamentos de Algoritmos                           | Resolución de problemas                         | Semana Santa                                          |
-| 22 Abril      | 3pm - 4pm     | Fundamentos de Algoritmos                           | Problemas de práctica                           | Aplazada            |
-| 24 Abril      | 3pm - 4pm     | Fundamentos de Algoritmos                           | Problemas prácticos                             |         Aplazada por actividades culturales                                              |
-| 29 Abril      | 3pm - 4pm     | Revisión de problemas resueltos                     | Ejercicios corregidos y discutidos              |                                                       |
-| 1 Mayo        | —             | —                                                    | —                                              | No hay clase (Día del Trabajo)                      |
-| 6 Mayo        | 3pm - 4pm     | Condicionales simples (if)                          | Introducción a estructuras condicionales       | Aplazada para el dia sabado                             |
-| 8 Mayo        | 3pm - 4pm     | Condicionales múltiples                             | Intro to estructuras condicionales                        | Problemas prácticos                                  |
-| 13 Mayo       | 3pm - 4pm     | Condicionales complejas                             | Comparaciones anidadas                          | Ejercicios de selección múltiple                     |
-| 15 Mayo       | 3pm - 4pm     | Problemas de condicionales                          | Resolución de ejercicios                        | Revisión de respuestas                               |
-| 20 Mayo       | 3pm - 4pm     | Problemas creativos con `if`                        | Operadores logicos para concatenacion de condiciones                    |            |
-| 22 Mayo       | 3pm - 4pm     | Escritura de problemas en formato Codeforces        | Operadores logicos para concatenacion de condiciones        | Mejora de resolucion de problemas con condicionales                         |
-| 27 Mayo       | 3pm - 4pm     | Validación y mejora de problemas                    | Revisión de condiciones lógicas complejas       | Aplazada                     |
-| 29 Mayo       | 3pm - 4pm     | Consolidación de condicionales avanzadas            | Lógica de problemas tipo Codeforces nivel alto  | Aplazada        |
+### **Resumen de Horas**
 
+- **Horas Totales (solo en llamadas Teams/Meet):** 20  
+- **Horas Adicionales (Presentaciones, creación de Quizziz, repositorio):** 8  
+- **🟰 Total:** **30 Horas**
 
 ---
 
