@@ -15,12 +15,12 @@
 | 22 Mayo       | 3pm - 4pm    | Escritura de problemas en formato Codeforces         | Operadores lógicos para concatenación de condiciones    | Mejora de resolución de problemas con condicionales   | ✓  | 1 Hora y Media                      |
 | 3 Junio       | 3pm - 4pm    | Introducción a bucles                                | Presentación de `while` y `for`                         |                                                       | ✓  | 1 Hora                              |
 | 5 Junio       | 3pm - 4pm    | Bucles `while`                                       | Ejercicios básicos con `while`                          |                                                       | ✓  | 1 Hora                              |
-| 12 Junio      | 3pm - 4pm    | Problemas con bucles simples                         | Resolución de ejercicios con `for` y `while`            |                                                       | ✓  | 1 Hora                              |
-| 1 Julio       | 3pm - 4pm    | Bucles `for`                                         | Acceso, recorrido, métodos básicos                      |                                                       | ✓  | 1 Hora                              |
-| 8 Julio       | 3pm - 4pm    | Problemas avanzados de bucles                        | Aplicaciones reales usando listas                       |                                                       | ✓  | 1 Hora                              |
-| 11 Julio      | 3pm - 4pm    | Funciones                                            | Trabajo con matrices y estructuras bidimensionales      |                                                       | ✓  | 1 Hora                              |
-| 15 Julio      | 3pm - 4pm    | Problemas con funciones                              | Modelado de información usando estructuras              |                                                       | ✓  | 1 Hora                              |
-| 19 Julio      | 3pm - 4pm    | Revisión general de POO y VPython                    | Consolidación de condicionales, bucles y listas         |                                                       | ✓  | 1 Hora                              |
+| 12 Junio      | 3pm - 4pm    | Problemas con bucles simples                         | Problemas de bucles con while principalmente            |                                                       | ✓  | 1 Hora                              |
+| 1 Julio       | 3pm - 4pm    | Bucles `for`                                         | Problemas de bucles con enfoque de `for`                     |                                                       | ✓  | 1 Hora                              |
+| 8 Julio       | 3pm - 4pm    | Problemas avanzados de bucles                        | Problemas avanzados de bucles                      |                                                       | ✓  | 1 Hora                              |
+| 11 Julio      | 3pm - 4pm    | Funciones                                            | Definicion de funciones      |                                                       | ✓  | 1 Hora                              |
+| 15 Julio      | 3pm - 4pm    | Problemas con funciones                              | Problemas con funciones               |                                                       | ✓  | 1 Hora                              |
+| 19 Julio      | 3pm - 4pm    | Revisión general de POO y VPython                    | Intro corta a POO y Vpython        |                                                       | ✓  | 1 Hora                              |
 
 ---
 
